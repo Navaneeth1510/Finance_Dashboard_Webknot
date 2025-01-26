@@ -33,6 +33,7 @@ green : #85d0b2 */
     background-color: white;
     display: flex;
     /* border:1px solid grey; */
+    border-radius:6px;
     margin-top:1.5%;
     margin-bottom:1.5%;
     justify-content:space-between;
@@ -42,6 +43,7 @@ green : #85d0b2 */
 .down{
     background-color: white;
     /* border:1px solid grey; */
+    border-radius:6px;
     margin-right:2%;
     flex-grow:1;
 }
@@ -192,6 +194,7 @@ p{
 
 .image{
     /* border:1px solid black; */
+    border-radius:6px;
     margin-top:5%;
     width:70%;
     margin-bottom:1.5%;
